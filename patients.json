@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "practitioner": 4,
+    "name": "Zachary Mccoy"
+  },
+  {
+    "id": 2,
+    "practitioner": 0,
+    "name": "Anthony Pitts"
+  },
+  {
+    "id": 3,
+    "practitioner": 9,
+    "name": "Roger Barajas"
+  },
+  {
+    "id": 4,
+    "practitioner": 3,
+    "name": "Tracy Reed MD"
+  },
+  {
+    "id": 5,
+    "practitioner": 6,
+    "name": "John Ho"
+  },
+  {
+    "id": 6,
+    "practitioner": 3,
+    "name": "Cody Shaw"
+  },
+  {
+    "id": 7,
+    "practitioner": 0,
+    "name": "Alyssa Lopez"
+  },
+  {
+    "id": 8,
+    "practitioner": 1,
+    "name": "Nichole Hamilton"
+  },
+  {
+    "id": 9,
+    "practitioner": 7,
+    "name": "Erika Torres"
+  },
+  {
+    "id": 10,
+    "practitioner": 8,
+    "name": "Gina Herrera"
+  },
+  {
+    "id": 11,
+    "practitioner": 3,
+    "name": "Steven Gomez"
+  },
+  {
+    "id": 12,
+    "practitioner": 1,
+    "name": "Juan Ortiz"
+  },
+  {
+    "id": 13,
+    "practitioner": 2,
+    "name": "Thomas Rodriguez"
+  },
+  {
+    "id": 14,
+    "practitioner": 7,
+    "name": "Michelle Johnson"
+  },
+  {
+    "id": 15,
+    "practitioner": 8,
+    "name": "Kelli Nelson"
+  },
+  {
+    "id": 16,
+    "practitioner": 0,
+    "name": "Christian Mendoza"
+  },
+  {
+    "id": 17,
+    "practitioner": 9,
+    "name": "Alexandra Fernandez"
+  },
+  {
+    "id": 18,
+    "practitioner": 0,
+    "name": "Andrew Gentry"
+  },
+  {
+    "id": 19,
+    "practitioner": 9,
+    "name": "Mr. Cody Ellis DDS"
+  },
+  {
+    "id": 20,
+    "practitioner": 8,
+    "name": "Pamela Mcgrath"
+  },
+  {
+    "id": 21,
+    "practitioner": 3,
+    "name": "Carrie Clark"
+  },
+  {
+    "id": 22,
+    "practitioner": 1,
+    "name": "Judith Newton"
+  },
+  {
+    "id": 23,
+    "practitioner": 10,
+    "name": "Autumn Nelson"
+  },
+  {
+    "id": 24,
+    "practitioner": 10,
+    "name": "Robyn Tran"
+  }
+]
